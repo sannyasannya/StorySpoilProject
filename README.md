@@ -1,2 +1,2 @@
 # StorySpoilProject
-A simple RESTful API project using RestSharp
+Integration testing with NUnit for a simple RESTful API project written in C#.
